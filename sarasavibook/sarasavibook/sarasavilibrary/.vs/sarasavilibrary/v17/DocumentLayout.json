@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|solutionrelative:sarasavilibrary\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\inquiryprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|solutionrelative:sarasavilibrary\\inquiryprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|solutionrelative:sarasavilibrary\\home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|solutionrelative:sarasavilibrary\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\bookregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|solutionrelative:sarasavilibrary\\bookregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|c:\\users\\ekdvs\\onedrive\\desktop\\c47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\reservationprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|solutionrelative:sarasavilibrary\\reservationprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|solutionrelative:sarasavilibrary\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\bookregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|solutionrelative:sarasavilibrary\\bookregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\loan_returnprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|solutionrelative:sarasavilibrary\\loan_returnprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\loan_returnprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|solutionrelative:sarasavilibrary\\loan_returnprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\reservationprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|solutionrelative:sarasavilibrary\\reservationprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\inquiryprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|solutionrelative:sarasavilibrary\\inquiryprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|solutionrelative:sarasavilibrary\\home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|solutionrelative:sarasavilibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4BF7913-AC3E-46FB-BFEB-39D927664690}|sarasavilibrary\\sarasavilibrary.csproj|solutionrelative:sarasavilibrary\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home_page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\Home_page.cs",
+              "RelativeDocumentMoniker": "sarasavilibrary\\Home_page.cs",
+              "ToolTip": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\Home_page.cs [Design]",
+              "RelativeToolTip": "sarasavilibrary\\Home_page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:40:45.442Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\Dashboard.cs",
+              "RelativeDocumentMoniker": "sarasavilibrary\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\Dashboard.cs [Design]",
+              "RelativeToolTip": "sarasavilibrary\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:40:28.779Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InquiryProcess.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\InquiryProcess.cs",
+              "RelativeDocumentMoniker": "sarasavilibrary\\InquiryProcess.cs",
+              "ToolTip": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\InquiryProcess.cs [Design]",
+              "RelativeToolTip": "sarasavilibrary\\InquiryProcess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:19:26.72Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "sarasavilibrary\\UserRegistration.cs",
+              "ToolTip": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\UserRegistration.cs [Design]",
+              "RelativeToolTip": "sarasavilibrary\\UserRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:43:18.017Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\BookRegistration.cs",
+              "RelativeDocumentMoniker": "sarasavilibrary\\BookRegistration.cs",
+              "ToolTip": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\BookRegistration.cs [Design]",
+              "RelativeToolTip": "sarasavilibrary\\BookRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:39:52.151Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservationProcess.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\ReservationProcess.cs",
+              "RelativeDocumentMoniker": "sarasavilibrary\\ReservationProcess.cs",
+              "ToolTip": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\ReservationProcess.cs [Design]",
+              "RelativeToolTip": "sarasavilibrary\\ReservationProcess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:42:50.178Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "sarasavilibrary\\UserRegistration.cs",
+              "ToolTip": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\UserRegistration.cs",
+              "RelativeToolTip": "sarasavilibrary\\UserRegistration.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAqwEwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:41:02.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReservationProcess.cs",
+              "DocumentMoniker": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\ReservationProcess.cs",
+              "RelativeDocumentMoniker": "sarasavilibrary\\ReservationProcess.cs",
+              "ToolTip": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\ReservationProcess.cs",
+              "RelativeToolTip": "sarasavilibrary\\ReservationProcess.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAywCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:23:20.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Loan_ReturnProcess.cs",
+              "DocumentMoniker": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\Loan_ReturnProcess.cs",
+              "RelativeDocumentMoniker": "sarasavilibrary\\Loan_ReturnProcess.cs",
+              "ToolTip": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\Loan_ReturnProcess.cs",
+              "RelativeToolTip": "sarasavilibrary\\Loan_ReturnProcess.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAwI4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:45:34.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\BookRegistration.cs",
+              "RelativeDocumentMoniker": "sarasavilibrary\\BookRegistration.cs",
+              "ToolTip": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\BookRegistration.cs",
+              "RelativeToolTip": "sarasavilibrary\\BookRegistration.cs",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAwwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:25:52.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Loan_ReturnProcess.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\Loan_ReturnProcess.cs",
+              "RelativeDocumentMoniker": "sarasavilibrary\\Loan_ReturnProcess.cs",
+              "ToolTip": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\Loan_ReturnProcess.cs [Design]",
+              "RelativeToolTip": "sarasavilibrary\\Loan_ReturnProcess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:19:29.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home_page.cs",
+              "DocumentMoniker": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\Home_page.cs",
+              "RelativeDocumentMoniker": "sarasavilibrary\\Home_page.cs",
+              "ToolTip": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\Home_page.cs",
+              "RelativeToolTip": "sarasavilibrary\\Home_page.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAuwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:21:38.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InquiryProcess.cs",
+              "DocumentMoniker": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\InquiryProcess.cs",
+              "RelativeDocumentMoniker": "sarasavilibrary\\InquiryProcess.cs",
+              "ToolTip": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\InquiryProcess.cs",
+              "RelativeToolTip": "sarasavilibrary\\InquiryProcess.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:28:09.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\Program.cs",
+              "RelativeDocumentMoniker": "sarasavilibrary\\Program.cs",
+              "ToolTip": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\Program.cs",
+              "RelativeToolTip": "sarasavilibrary\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:19:06.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login_page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ekdvs\\OneDrive\\Desktop\\C47783\\sarasavibook\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\Login_page.cs",
+              "RelativeDocumentMoniker": "sarasavilibrary\\Login_page.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\Login_page.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\USER\\Desktop\\sarasavibook\\sarasavibook\\sarasavilibrary\\sarasavilibrary\\Login_page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:42:12.939Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
